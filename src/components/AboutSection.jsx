@@ -28,7 +28,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="/RaghuveerSingh(Resume).pdf"
+                href="/public/projects/Raghuveer(Resume).pdf"
                 download
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/15 transition-colors duration-300"
               >
