@@ -28,7 +28,11 @@ export const AboutSection = () => {
               </a>
 
               <a
+<<<<<<< HEAD
                 href="/projects/Raghuveer(Resume).pdf"
+=======
+                href="/projects/Raghuveer Singh.pdf"
+>>>>>>> 2669fe6 (Resume Update)
                 download
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/15 transition-colors duration-300"
               >
