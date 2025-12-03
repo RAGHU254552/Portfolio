@@ -39,7 +39,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Film-Facts",
+    title: "Movie-Facts",
     description:
       "Integrated APIs to fetch movie data including titles, genres, ratings, and synopses, ensuring accurate and up-to-date information for users.",
     image: "/projects/moviefactsImage.png",
@@ -57,6 +57,23 @@ const projects = [
     demoURL: "#",
     githubURL: "# ",
   },
+  {
+  id: 4,
+  title: "QuickShow",
+  description:
+    "Designed a responsive and modern movie ticket booking UI with React and Tailwind CSS, focusing on clean layout, accessibility, and smooth user navigation.",
+  image: "/projects/QuickShowImage.png",
+  tags: [
+    "React",
+    "JavaScript",
+    "Tailwind CSS",
+    "React-router",
+    "Responsive UI",
+  ],
+  demoURL: "#",
+  githubURL: "#",
+}
+
 ];
 
 export const ProjectSection = () => {
